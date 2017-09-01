@@ -1,6 +1,2 @@
 # Examples
-hi
-loop
-law
-poop
-pook
+hi poo
